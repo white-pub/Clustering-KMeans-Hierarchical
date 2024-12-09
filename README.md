@@ -1,3 +1,6 @@
+**Note**: There is some issue with properly displaying the jupyter notebook on GitHub natively. 
+You can view the fully rendered Jupyter Notebook on nbviewer [here](https://nbviewer.org/github/white-pub/Clustering-KMeans-Hierarchical/blob/main/Assignment6_Clustering.ipynb).
+
 ### Clustering Project:
 
 **Part I: Image Decoloring with K-means**
