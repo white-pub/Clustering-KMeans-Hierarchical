@@ -2,3 +2,6 @@
 
 # Ignore .ipynb_checkpoints
 /.ipynb_checkpoints
+
+# Ignore the original picture for Part I discolor practice
+/Part_I_pic
