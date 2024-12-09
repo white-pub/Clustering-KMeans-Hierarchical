@@ -1,0 +1,4 @@
+/venv
+
+# Ignore .ipynb_checkpoints
+/.ipynb_checkpoints
